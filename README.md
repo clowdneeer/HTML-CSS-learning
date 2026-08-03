@@ -119,3 +119,4 @@ I created this repository to document my learning journey. Every project represe
 
 Thanks for stopping by! 🚀
 All this mini-projects wrotten up to august 2026 - next stage is JS
+03.08 18:30 - im want to finish landing page for coffee shop - next commit will be with finished page
