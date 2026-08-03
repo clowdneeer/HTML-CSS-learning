@@ -118,5 +118,7 @@ I'm currently learning JavaScript. After that I plan to continue with:
 I created this repository to document my learning journey. Every project represents something new that I've learned. As my skills improve, I plan to revisit older projects and make them better.
 
 Thanks for stopping by! 🚀
+
 All this mini-projects wrotten up to august 2026 - next stage is JS
+
 03.08 18:30 - im want to finish landing page for coffee shop - next commit will be with finished page
